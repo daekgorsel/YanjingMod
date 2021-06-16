@@ -1,0 +1,95 @@
+{
+	"texture": "tutorial_entity.png",
+	"textureSize": [32, 32],
+	"models": [
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -9, 4]
+		},
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -8, 0],
+			"submodels": [
+				{
+					"id": "rotation",
+					"invertAxis": "xy",
+					"translate": [0, 8, 0],
+					"rotate": [-90, 0, 0],
+					"submodels": [
+						{
+							"id": "penguin",
+							"invertAxis": "xy",
+							"translate": [0, 0, 0],
+							"rotate": [90, 0, 0],
+							"boxes": [
+								{"coordinates": [-3, -4, -2, 6, 3, 4], "textureOffset": [0, 1]},
+								{"coordinates": [-3, -1, -1, 6, 1, 2], "textureOffset": [0, 5]},
+								{"coordinates": [-2, -1, 1, 4, 1, 1], "textureOffset": [0, 4]},
+								{"coordinates": [-2, -1, -2, 4, 1, 1], "textureOffset": [0, 4]},
+								{"coordinates": [-3, -8, -2, 6, 4, 4], "textureOffset": [0, 4]},
+								{"coordinates": [3, -8, -1, 1, 5, 2], "textureOffset": [0, 12]},
+								{"coordinates": [-1, -4, 2, 2, 1, 1], "textureOffset": [4, 12]},
+								{"coordinates": [1, -8, 2, 1, 0, 1], "textureOffset": [0, 2]},
+								{"coordinates": [-2, -8, 2, 1, 0, 1], "textureOffset": [0, 0]}
+							],
+							"submodels": [
+								{
+									"invertAxis": "xy",
+									"mirrorTexture": "u",
+									"boxes": [
+										{"coordinates": [-4, -8, -1, 1, 5, 2], "textureOffset": [0, 12]}
+									]
+								}
+							]
+						}
+					]
+				}
+			],
+			"animations": [
+				{
+					"rotation.rx": "0"
+				}
+			]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [-2, -5, -1]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"translate": [1, -5, -1]
+		},
+		{
+			"part": "right_wing",
+			"id": "right_wing",
+			"invertAxis": "xy",
+			"translate": [-4, -11, 0]
+		},
+		{
+			"part": "left_wing",
+			"id": "left_wing",
+			"invertAxis": "xy",
+			"translate": [4, -11, 0]
+		},
+		{
+			"part": "bill",
+			"id": "bill",
+			"invertAxis": "xy",
+			"translate": [0, -9, 4]
+		},
+		{
+			"part": "chin",
+			"id": "chin",
+			"invertAxis": "xy",
+			"translate": [0, -9, 4]
+		}
+	]
+}

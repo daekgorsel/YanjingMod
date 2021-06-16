@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":[
+		"B"
+	],
+	"key": {
+	 "B": {
+	 	"item": "yanjingmod:jade_block"
+	 }
+		
+	 },
+	
+	"result": {
+	"item": "yanjingmod:jade_ingot" ,
+	"count": 9
+	
+	}
+}

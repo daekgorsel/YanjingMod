@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "yanjingmod:jade_ingot"
+    },
+     {
+      "item": "yanjingmod:jade_block"
+    },
+    {
+      "item": "yanjingmod:jade_ingot"
+    }
+  ],
+  "result": {
+    "item": "yanjingmod:jade_ore"
+  }
+}

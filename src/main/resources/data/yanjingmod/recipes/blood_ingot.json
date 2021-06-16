@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	
+	"pattern":[
+		"B"
+	],
+	"key": {
+	 "B": {
+	 	"item": "yanjingmod:blood_block"
+	 }
+		
+	 },
+	
+	"result": {
+	"item": "yanjingmod:blood_ingot" ,
+	"count": 9
+	
+	}
+}

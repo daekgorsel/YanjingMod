@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "yanjingmod:block/blood_block_f"
+    }
+}

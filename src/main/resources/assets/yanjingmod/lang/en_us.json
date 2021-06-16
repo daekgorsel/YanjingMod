@@ -1,0 +1,31 @@
+{
+	"item.yanjingmod.eye_green": "Green Demon Eye",
+	"item.yanjingmod.eye_blue": "Blue Demon Eye",
+	"item.yanjingmod.eye_red": "Red Demon Eye",
+	
+	"item.yanjingmod.jade_ingot": "Jade Ingot",
+	"item.yanjingmod.blood_ingot": "Demon Blood Ingot",
+	"item.yanjingmod.demon_gold_ingot": "Demon Gold Ingot",
+	"item.yanjingmod.tutorial_entity_egg": "Egg", 
+	"item.yanjingmod.model_entity_egg": "Eggio",
+	"item.yanjingmod.jade_demon_egg": "Jade Demon",
+	
+	"block.yanjingmod.jade_block": "Jade Block",
+	"block.yanjingmod.blood_block": "Blood Block",
+	"block.yanjingmod.sky_tear_block": "Sky's tear Block",
+	"block.yanjingmod.demon_gold_block": "Demon's gold Block",
+	"block.yanjingmod.abhor_block": "Abhor Block",
+	
+	"block.yanjingmod.jade_block_f": "Fancy Jade Block",
+	"block.yanjingmod.blood_block_f": "Fancy Blood Block",
+	"block.yanjingmod.sky_tear_block_f": "Fancy Sky's tear Block",
+	"block.yanjingmod.demon_gold_block_f": "Fancy Demon's gold Block",
+	"block.yanjingmod.abhor_block_f": "Fancy Abhor Block",
+	
+	"block.yanjingmod.jade_ore": "Jade Ore",
+	"block.yanjingmod.demon_gold_ore": "Demon's gold Ore",
+	
+	"entity.yanjingmod.tutorial_entity": "Cow",
+
+	"itemGroup.YANJINGTAB": "Yanjing"
+}
